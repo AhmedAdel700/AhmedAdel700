@@ -7,10 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/en-GB/view/gol-d-roger-one-piece-laugh-gif-21028191" width="100%" alt="Gold Roger laughing">
+  <img src="https://media.tenor.com/qvS02g_-fNsAAAAC/gol-d-roger-one-piece.gif" width="100%" alt="Gold Roger laughing">
 </div>
 
-![alt text](gol-d-roger-one-piece-1.gif)
 <br>
 
 <div align="center">
