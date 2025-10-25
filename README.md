@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqOWoxaHM1OXBwN3JoZGo5YnNrYzVxMWdqY3d3dHQwbWFsMDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGSHfCJR5im1G/giphy.gif" width="600">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml0cmxzcjhhMjFxbzlzMTF1ZGdub3VheGU2OW0ycGVkN2ptNGxtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="600" alt="Gold Roger laughing">
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 
 ## ⚓ About Me - Setting Sail on the Digital Seas
 
-<img align="right" alt="One Piece Ship" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN4ZHp3dzd4MmJsMnVpZjV3OHVzbHhoYzh4bDFobXBhZW5temtlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143vPc6b08locw/giphy.gif">
+<img align="right" alt="Luffy" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZlcWVjZ2V4OHd1emluamJicWV4YXBlaW9qa3U0YjZrbG1sZGk4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DK3kYXSiKyuKk/giphy.gif">
 
 🏴‍☠️ **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
 
@@ -94,7 +94,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/? user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
 </div>
 
 <div align="center">
@@ -130,7 +130,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y0cW5janl5Mzg5d3FnNHoxNWw4NG44OHFvczlteGZvbG50aGthNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="600">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBqeXh5ejRzMWFidGdxd3dvNHlycGhhNmJxbDhybnFoNzM3MzlrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uACKkBictxb9K/giphy.gif" width="600" alt="Doflamingo walking">
 </div>
 
 <br>
