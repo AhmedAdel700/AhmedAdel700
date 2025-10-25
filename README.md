@@ -1,112 +1,133 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Adel&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=200&section=header&text=Ahmed%20Adel&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=false&width=800&height=60&lines=Front-End+Web+Developer+%7C+Crafting+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=60&lines=Front-End+Web+Developer+%7C+Crafting+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqOWoxaHM1OXBwN3JoZGo5YnNrYzVxMWdqY3d3dHQwbWFsMDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGSHfCJR5im1G/giphy.gif" width="600">
 </div>
 
 <br>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## ⚓ About Me - Setting Sail on the Digital Seas
 
-🚀 **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
+<img align="right" alt="One Piece Ship" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN4ZHp3dzd4MmJsMnVpZjV3OHVzbHhoYzh4bDFobXBhZW5temtlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143vPc6b08locw/giphy.gif">
 
-I'm passionate about crafting modern, responsive, and user-focused web experiences with hands-on expertise in **Next.js**, **React.js**, **Ant Design**, **RTK Query**, **NextAuth**, and **Figma**.
+🏴‍☠️ **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
 
-### 💼 Current Work
+Just like the Straw Hat Pirates pursuing their dreams, I'm passionate about crafting modern, responsive, and user-focused web experiences with hands-on expertise in **Next.js**, **React.js**, **Ant Design**, **RTK Query**, **NextAuth**, and **Figma**.
 
-**🏢 Digifly (BE Group)**
+### 🌊 Current Adventures
+
+**⛵ Digifly (BE Group)**
 - Building interactive dashboards and responsive websites
 - Working with multiple clients on scalable solutions
 - Focus: Clean UI, Smooth UX, Efficient API Integration
 
-**🌍 Quantum Billing, LLC (U.S.) - Remote**
+**🗺️ Quantum Billing, LLC (U.S.) - Remote**
 - Contributing to enterprise ERP development
 - Tech Stack: React.js, Redux, Material UI
 
-### 🎯 What Drives Me
+### 🎯 My Pirate Code
 
-My approach combines **clean code**, **problem-solving**, and **attention to detail** — all driven by a genuine passion for **continuous learning and improvement**.
+My approach combines **clean code**, **problem-solving**, and **attention to detail** — all driven by a genuine passion for **continuous learning and improvement**. The One Piece is real, and so is clean code! 
 
 <br>
 
-## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
+
+## 🏴‍☠️ My Devil Fruit Powers (Tech Stack)
 
 <div align="center">
 
-### Core Technologies
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### ⚡ Core Powers
+![TypeScript](https://img.shields.io/badge/TypeScript-%23FF6B35.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7931E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%23FF6B35.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23FDC830?style=for-the-badge&logo=next.js&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%23FF6B35.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-%23F7931E?style=for-the-badge&logo=node.js&logoColor=white)
 
-### UI Frameworks & Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+### 🎨 Style & Design Powers
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%23FF6B35.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-%23FDC830?style=for-the-badge&logo=ant-design&logoColor=black)
+![MUI](https://img.shields.io/badge/Material_UI-%23FF6B35.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23F7931E.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%23FF6B35.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### 🗡️ Weapons & Tools
+![Git](https://img.shields.io/badge/Git-%23FDC830.svg?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-%23FF6B35.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23F7931E.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23FF6B35.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23FDC830.svg?style=for-the-badge&logo=figma&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-%23FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%23F7931E.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+### 🛡️ Defense & Quality
+![Jest](https://img.shields.io/badge/Jest-%23FF6B35?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%23FDC830?style=for-the-badge&logo=eslint&logoColor=black)
 
-### Other
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+### 🌊 Other Abilities
+![WordPress](https://img.shields.io/badge/WordPress-%23FF6B35.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%23F7931E.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6B35.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVmZWJtaDhzZ3F1OWw2aWo3d25hcmkxb3Y5MDViNnU0bG56ZGp5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9S3L4JDhjHXPsTgayS/giphy.gif" width="500">
 </div>
 
 <br>
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
+
+## 📊 Bounty & Stats (GitHub Analytics)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=nightowl&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdel700&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
-</div>
-
-<br>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAdel700&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=FF6B35&text_color=FDC830"/>
 </div>
 
 <br>
 
-## 🔝 Top Contributions
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFxYXhqemlhYnhoaHBjZjk3ZGtsN3R0Mmlra3FsY3F6YmVkY2ZnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KztT2c4u8mYYUiMKdJ/giphy.gif" width="400">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
+
+## 🏆 Wanted Posters (GitHub Achievements)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAdel700&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+<br>
+
+## 🗺️ Greatest Treasures (Top Contributions)
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AhmedAdel700&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -114,7 +135,17 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 
 <br>
 
-## 💭 Dev Quote of the Day
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc1bnIzb2N2cGVvcXh6bXh0N2xhOHNseWV5ZTVqZ3czZjViZXdoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif" width="500">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
+
+## 💭 Words of the Pirate King
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -122,22 +153,22 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 
 <br>
 
-## 🌐 Let's Connect
+## 🌊 Join My Crew (Let's Connect)
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-adel-232272283)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedadel.engineer1@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.adel.804171)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/playmaker4695)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF6B35.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-adel-232272283)
+[![Email](https://img.shields.io/badge/Email-%23F7931E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedadel.engineer1@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%23FDC830.svg?style=for-the-badge&logo=Facebook&logoColor=black)](https://www.facebook.com/ahmed.adel.804171)
+[![Discord](https://img.shields.io/badge/Discord-%23FF6B35.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/playmaker4695)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F7931E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y0cW5janl5Mzg5d3FnNHoxNWw4NG44OHFvczlteGZvbG50aGthNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="600">
 </div>
 
 <br>
@@ -146,12 +177,14 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 
 <div align="center">
   
-### 👁️ Profile Views
+### 👁️ Bounty Views
   
 [![](https://visitcount.itsvg.in/api?id=AhmedAdel700&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=100&section=footer" />
+
+**"I'm gonna be King of the Developers!"** 👑
 
 </div>
 
-<!-- Crafted with 💙 by Ahmed Adel -->
+<!-- ⚓ Set Sail with Ahmed Adel -->
