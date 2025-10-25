@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Front-End+Web+Developer+%F0%9F%9A%80;Crafting+Modern+Web+Experiences+%F0%9F%8E%A8;React+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=false&width=800&height=60&lines=Front-End+Web+Developer+%7C+Crafting+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,29 +14,26 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const ahmed = {
-  location: "Cairo, Egypt 🇪🇬",
-  role: "Front-End Web Developer",
-  companies: ["Digifly (BE Group)", "Quantum Billing, LLC"],
-  passion: "Crafting modern, responsive, and user-focused web experiences",
-  
-  currentlyWorking: {
-    at: "Digifly",
-    focus: ["Interactive Dashboards", "Responsive Websites", "Clean UI/UX"],
-    clients: "Multiple enterprise clients"
-  },
-  
-  remoteCollaboration: {
-    company: "Quantum Billing, LLC (U.S.)",
-    projectType: "Enterprise ERP Development",
-    stack: ["React.js", "Redux", "Material UI"]
-  },
-  
-  approach: ["Clean Code", "Problem Solving", "Attention to Detail"],
-  mindset: "Continuous Learning & Improvement 📈"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🚀 **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
+
+I'm passionate about crafting modern, responsive, and user-focused web experiences with hands-on expertise in **Next.js**, **React.js**, **Ant Design**, **RTK Query**, **NextAuth**, and **Figma**.
+
+### 💼 Current Work
+
+**🏢 Digifly (BE Group)**
+- Building interactive dashboards and responsive websites
+- Working with multiple clients on scalable solutions
+- Focus: Clean UI, Smooth UX, Efficient API Integration
+
+**🌍 Quantum Billing, LLC (U.S.) - Remote**
+- Contributing to enterprise ERP development
+- Tech Stack: React.js, Redux, Material UI
+
+### 🎯 What Drives Me
+
+My approach combines **clean code**, **problem-solving**, and **attention to detail** — all driven by a genuine passion for **continuous learning and improvement**.
 
 <br>
 
