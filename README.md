@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/qvS02g_-fNsAAAAC/gol-d-roger-one-piece.gif" width="100%" alt="Gold Roger laughing">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY0ZnVqY2VvcXM5ajR3NWs0MjVyOGlvbGtjeDA5ajQ3dzFqOWFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif" width="100%" alt="Gold Roger laughing">
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 
 ## ⚓ About Me - Setting Sail on the Digital Seas
 
-<img align="right" alt="Luffy" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZlcWVjZ2V4OHd1emluamJicWV4YXBlaW9qa3U0YjZrbG1sZGk4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DK3kYXSiKyuKk/giphy.gif">
+<img align="right" alt="Luffy" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluMWxtajZ5ZzdraGFkOWo0b3FmOG5ra3VtcHRjOWZ5a3Nja2sxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1W40UWS9peSru/giphy.gif">
 
 🏴‍☠️ **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
 
@@ -137,7 +137,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 <br>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBqeXh5ejRzMWFidGdxd3dvNHlycGhhNmJxbDhybnFoNzM3MzlrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uACKkBictxb9K/giphy.gif" width="600" alt="Doflamingo walking">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVpMDRmM3NpdTJkam52ejB4azY2cjl3OWI3OTZzcTAwODYybzRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFfDbwYxtbV7i/giphy.gif" width="600" alt="Doflamingo walking">
 </div>
 
 <br>
