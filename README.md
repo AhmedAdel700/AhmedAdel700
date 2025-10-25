@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/FRmM06qS_z4AAAAC/one-piece-gold-roger.gif" width="600">
+  <img src="https://media.tenor.com/FRmM06qS_z4AAAAC/one-piece-gold-roger.gif" width="600">
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 
 ## ⚓ About Me - Setting Sail on the Digital Seas
 
-<img align="right" alt="Luffy" width="400" src="https://media1.tenor.com/m/0koWFhi_ts4AAAAC/luffy.gif">
+<img align="right" alt="Luffy" width="400" src="https://media.tenor.com/0koWFhi_ts4AAAAC/luffy.gif">
 
 🏴‍☠️ **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
 
@@ -130,7 +130,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 <br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/k6qKpI4l4fwAAAAC/one-piece-doflamingo.gif" width="600">
+  <img src="https://media.tenor.com/k6qKpI4l4fwAAAAC/one-piece-doflamingo.gif" width="600">
 </div>
 
 <br>
