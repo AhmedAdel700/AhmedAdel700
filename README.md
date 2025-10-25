@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=false&width=900&height=60&lines=Front-End+Web+Developer+%7C+Crafting+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Front-End+Web+Developer;Crafting+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqOWoxaHM1OXBwN3JoZGo5YnNrYzVxMWdqY3d3dHQwbWFsMDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGSHfCJR5im1G/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqOWoxaHM1OXBwN3JoZGo5YnNrYzVxMWdqY3d3dHQwbWFsMDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGSHfCJR5im1G/giphy.gif" width="500">
 </div>
 
 <br>
@@ -87,16 +87,10 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVmZWJtaDhzZ3F1OWw2aWo3d25hcmkxb3Y5MDViNnU0bG56ZGp5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9S3L4JDhjHXPsTgayS/giphy.gif" width="500">
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-## 📊 Bounty & Stats (GitHub Analytics)
+## 📊 My Bounty Keeps Rising! 🏴‍☠️
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
