@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml0cmxzcjhhMjFxbzlzMTF1ZGdub3VheGU2OW0ycGVkN2ptNGxtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="600" alt="Gold Roger laughing">
+  <img src="https://tenor.com/en-GB/view/gol-d-roger-one-piece-laugh-gif-21028191" width="100%" alt="Gold Roger laughing">
 </div>
 
 <br>
