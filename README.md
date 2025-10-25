@@ -24,18 +24,28 @@
 
 Just like the Straw Hat Pirates pursuing their dreams, I'm passionate about crafting modern, responsive, and user-focused web experiences with hands-on expertise in **Next.js**, **React.js**, **Ant Design**, **RTK Query**, **NextAuth**, and **Figma**.
 
-### 🌊 Current Adventures
+### 🌊 Professional Journey
 
-**⛵ Digifly (BE Group)**
+**⛵ Digifly (BE Group)** - *Current*
 
 - Building interactive dashboards and responsive websites
 - Working with multiple clients on scalable solutions
 - Focus: Clean UI, Smooth UX, Efficient API Integration
 
-**🗺️ Quantum Billing, LLC (U.S.) - Remote**
+**🗺️ Quantum Billing, LLC (U.S.) - Remote** | *Completed March 2025*
 
-- Contributing to enterprise ERP development
+- Contributed to enterprise ERP development
 - Tech Stack: React.js, Redux, Material UI
+- Delivered scalable solutions for billing management systems
+
+**⚔️ Web Masters - Front-End Developer (Intern)** | *Aug 2024 – Oct 2024*
+
+- Built responsive layouts using HTML5, CSS3, JavaScript, and Bootstrap
+- Developed dynamic UIs with React.js, React Router, and Redux Toolkit
+- Implemented protected routes and state management patterns
+- **Highlighted Projects:**
+  - **E-commerce Platform:** Online store with product listings, cart functionality, and user authentication
+  - **Weather App:** Interactive application using APIs for real-time weather data
 
 ### 🎯 My Pirate Code
 
