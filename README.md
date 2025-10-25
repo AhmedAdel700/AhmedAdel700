@@ -26,23 +26,34 @@ Just like the Straw Hat Pirates pursuing their dreams, I'm passionate about craf
 
 ### 🌊 Professional Journey
 
-**⛵ Digifly (BE Group)** - *Current*
+**⛵ Digifly (Part of BE Group) - Front-End Developer** | *Feb 2025 – Present | Cairo, Egypt*
 
-- Building interactive dashboards and responsive websites
-- Working with multiple clients on scalable solutions
-- Focus: Clean UI, Smooth UX, Efficient API Integration
+*Tech Stack: Next.js, Ant Design, RTK Query, NextAuth, Figma, Postman*
 
-**🗺️ Quantum Billing, LLC (U.S.) - Remote** | *Completed March 2025*
+- Contributed to multiple web projects for various clients within cross-functional Agile teams
+- **Chemia Website:** Built interactive, fully responsive, data-driven components leveraging RTK Query and NextAuth for secure and efficient UX
+- Translated Figma designs into clean, reusable code with consistent component architecture
+- Integrated and tested APIs using Postman for smooth front-end/backend communication
+- Participated in sprint planning and issue tracking with Jira in an Agile environment
 
-- Contributed to enterprise ERP development
-- Tech Stack: React.js, Redux, Material UI
-- Delivered scalable solutions for billing management systems
+**🗺️ Quantum Billing, LLC - Front-End Developer** | *Nov 2024 – Present | Remote, U.S.*
 
-**⚔️ Web Masters - Front-End Developer (Intern)** | *Aug 2024 – Oct 2024*
+*Tech Stack: React.js, Redux, React Router, Material-UI, Swagger, Postman*
 
-- Built responsive layouts using HTML5, CSS3, JavaScript, and Bootstrap
-- Developed dynamic UIs with React.js, React Router, and Redux Toolkit
-- Implemented protected routes and state management patterns
+- Contributing to enterprise ERP system by creating and enhancing reusable components
+- Managed complex application state using Redux for scalable workflows
+- Delivered modular, maintainable code meeting enterprise-level standards
+- Collaborated with backend teams for API integration and testing using Swagger & Postman
+- Worked in Agile Scrum environment, participating in sprint planning and reviews
+- Optimized component performance and maintained high code quality standards
+
+**⚔️ Web Masters - Front-End Developer (Intern)** | *Aug 2024 – Oct 2024 | Cairo, Egypt*
+
+*Tech Stack: HTML5, CSS3, JavaScript, Bootstrap, React.js, Redux Toolkit, Material-UI*
+
+- Built responsive layouts and dynamic user interfaces
+- Implemented React Router for navigation and protected routes using loaders
+- Utilized Redux Toolkit for state management and Material UI for modern components
 - **Highlighted Projects:**
   - **E-commerce Platform:** Online store with product listings, cart functionality, and user authentication
   - **Weather App:** Interactive application using APIs for real-time weather data
