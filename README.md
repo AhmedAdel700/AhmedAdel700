@@ -10,6 +10,8 @@
   <img src="https://tenor.com/en-GB/view/gol-d-roger-one-piece-laugh-gif-21028191" width="100%" alt="Gold Roger laughing">
 </div>
 
+<div class="tenor-gif-embed" data-postid="21028191" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/gol-d-roger-one-piece-laugh-gif-21028191">Gol D Roger One Piece GIF</a>from <a href="https://tenor.com/search/gol+d+roger-gifs">Gol D Roger GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <br>
 
 <div align="center">
@@ -27,17 +29,19 @@ Just like the Straw Hat Pirates pursuing their dreams, I'm passionate about craf
 ### 🌊 Current Adventures
 
 **⛵ Digifly (BE Group)**
+
 - Building interactive dashboards and responsive websites
 - Working with multiple clients on scalable solutions
 - Focus: Clean UI, Smooth UX, Efficient API Integration
 
 **🗺️ Quantum Billing, LLC (U.S.) - Remote**
+
 - Contributing to enterprise ERP development
 - Tech Stack: React.js, Redux, Material UI
 
 ### 🎯 My Pirate Code
 
-My approach combines **clean code**, **problem-solving**, and **attention to detail** — all driven by a genuine passion for **continuous learning and improvement**. The One Piece is real, and so is clean code! 
+My approach combines **clean code**, **problem-solving**, and **attention to detail** — all driven by a genuine passion for **continuous learning and improvement**. The One Piece is real, and so is clean code!
 
 <br>
 
@@ -50,6 +54,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 <div align="center">
 
 ### ⚡ Core Powers
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23FF6B35.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7931E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%23FF6B35.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -58,6 +63,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 ![NodeJS](https://img.shields.io/badge/Node.js-%23F7931E?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🎨 Style & Design Powers
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%23FF6B35.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-%23FDC830?style=for-the-badge&logo=ant-design&logoColor=black)
 ![MUI](https://img.shields.io/badge/Material_UI-%23FF6B35.svg?style=for-the-badge&logo=mui&logoColor=white)
@@ -65,6 +71,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 ![SASS](https://img.shields.io/badge/SASS-%23FF6B35.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### 🗡️ Weapons & Tools
+
 ![Git](https://img.shields.io/badge/Git-%23FDC830.svg?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-%23FF6B35.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23F7931E.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -74,10 +81,12 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 ![Jira](https://img.shields.io/badge/Jira-%23F7931E.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 🛡️ Defense & Quality
+
 ![Jest](https://img.shields.io/badge/Jest-%23FF6B35?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%23FDC830?style=for-the-badge&logo=eslint&logoColor=black)
 
 ### 🌊 Other Abilities
+
 ![WordPress](https://img.shields.io/badge/WordPress-%23FF6B35.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%23F7931E.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6B35.svg?style=for-the-badge&logo=chart.js&logoColor=white)
