@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqOWoxaHM1OXBwN3JoZGo5YnNrYzVxMWdqY3d3dHQwbWFsMDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGSHfCJR5im1G/giphy.gif" width="500">
+  <img src="https://media1.tenor.com/m/FRmM06qS_z4AAAAC/one-piece-gold-roger.gif" width="600">
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 
 ## ⚓ About Me - Setting Sail on the Digital Seas
 
-<img align="right" alt="One Piece Ship" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN4ZHp3dzd4MmJsMnVpZjV3OHVzbHhoYzh4bDFobXBhZW5temtlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143vPc6b08locw/giphy.gif">
+<img align="right" alt="Luffy" width="400" src="https://media1.tenor.com/m/0koWFhi_ts4AAAAC/luffy.gif">
 
 🏴‍☠️ **Front-End Web Developer** from **Cairo, Egypt** 🇪🇬
 
@@ -130,7 +130,7 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y0cW5janl5Mzg5d3FnNHoxNWw4NG44OHFvczlteGZvbG50aGthNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="600">
+  <img src="https://media1.tenor.com/m/k6qKpI4l4fwAAAAC/one-piece-doflamingo.gif" width="600">
 </div>
 
 <br>
