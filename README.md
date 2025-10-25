@@ -93,12 +93,12 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 ## 📊 My Bounty Keeps Rising! 🏴‍☠️
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=FF6B35&text_color=FDC830"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=FF6B35&text_color=FDC830"/>
 </div>
 
 <br>
