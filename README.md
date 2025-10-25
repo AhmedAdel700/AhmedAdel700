@@ -93,44 +93,12 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 ## 📊 My Bounty Keeps Rising! 🏴‍☠️
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=FF6B35&text_color=FDC830&icon_color=F7931E"/>
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AhmedAdel700&theme=dracula&hide_border=true&background=0d1117&ring=FF6B35&fire=F7931E&currStreakLabel=FDC830"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=FF6B35&text_color=FDC830"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFxYXhqemlhYnhoaHBjZjk3ZGtsN3R0Mmlra3FsY3F6YmVkY2ZnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KztT2c4u8mYYUiMKdJ/giphy.gif" width="400">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
-</div>
-
-## 🏆 Wanted Posters (GitHub Achievements)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAdel700&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-<br>
-
-## 🗺️ Greatest Treasures (Top Contributions)
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AhmedAdel700&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc1bnIzb2N2cGVvcXh6bXh0N2xhOHNseWV5ZTVqZ3czZjViZXdoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif" width="500">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAdel700&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=FF6B35&text_color=FDC830"/>
 </div>
 
 <br>
@@ -170,10 +138,6 @@ My approach combines **clean code**, **problem-solving**, and **attention to det
 ---
 
 <div align="center">
-  
-### 👁️ Bounty Views
-  
-[![](https://visitcount.itsvg.in/api?id=AhmedAdel700&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=100&section=footer" />
 
