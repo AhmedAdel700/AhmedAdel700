@@ -10,8 +10,7 @@
   <img src="https://tenor.com/en-GB/view/gol-d-roger-one-piece-laugh-gif-21028191" width="100%" alt="Gold Roger laughing">
 </div>
 
-<div class="tenor-gif-embed" data-postid="21028191" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/gol-d-roger-one-piece-laugh-gif-21028191">Gol D Roger One Piece GIF</a>from <a href="https://tenor.com/search/gol+d+roger-gifs">Gol D Roger GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![alt text](gol-d-roger-one-piece-1.gif)
 <br>
 
 <div align="center">
